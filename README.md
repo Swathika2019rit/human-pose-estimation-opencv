@@ -1,1 +1,1 @@
-# human-pose-estimation-opencv
+# human-pose-estimation-opencv-library
